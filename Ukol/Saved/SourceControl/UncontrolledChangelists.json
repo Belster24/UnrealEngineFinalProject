@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/programming/unreal/Ukol/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/programming/unreal/Ukol/Content/ThirdPerson/Blueprints/Levitate.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/H3/Z8LJ7JYOTOX47W36CTXHPH.uasset",
+				"C:/programming/unreal/Ukol/Content/ThirdPerson/Blueprints/SlowTime.uasset",
+				"C:/programming/unreal/Ukol/Content/ThirdPerson/Blueprints/Crusher.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SE/GUI48HIWPAQBEGLZQLP2MV.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HO/9DDZJG6I4H3Q66EUNZBDYV.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/O5/1NDYU1XRJH5L2EXNSUKMJK.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/77/39ALDAFTFFN70GQVK68D7R.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JI/QHRAMDHFRJBPQABZSLVIFX.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/8R/JYRCYWO9134Y9U6MPVL8PS.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WV/CQ3R06UE7ZBZKO72D05L76.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/53/47W2K2M8YH48VNL9F6BWFW.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/RE/8AOPHBLS3KX8TSAXYK7L0Q.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/20/UIMCPT4C23UNFDYBXZL67I.uasset",
+				"C:/programming/unreal/Ukol/Content/ThirdPerson/Blueprints/Win.uasset",
+				"C:/programming/unreal/Ukol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3K/BS2U73E7ZQJG98GETTDAVF.uasset"
+			]
+		}
+	]
+}
